@@ -1,0 +1,14 @@
+/*! site.css */
+/* Overrides for milligram and normalize. */
+/* Put custom styles here. */
+body {
+    font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+footer {
+    margin-top: 2rem;
+    padding: 1rem;
+    text-align: center;
+    color: #888;
+    border-top: 1px solid #ddd;
+}
